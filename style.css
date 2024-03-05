@@ -1,0 +1,18 @@
+.card{
+  height: 400px;
+  display: flex;
+  align-items: center;
+  background-color: #ffcccc;
+  
+}
+.box{
+  margin-top: 20px;
+  
+}
+#emoji{
+  font-size: 100px;
+  text-align: center;
+}
+body{
+  background-color: skyblue;
+} 
